@@ -1,5 +1,5 @@
 VERSION=0.10.1
-DEB_VERSION=1
+DEB_VERSION=2
 PACKAGE_NAME=postgres-exporter
 PROGRAM_NAME=postgres_exporter
 UPSTREAM_NAME=postgres_exporter
